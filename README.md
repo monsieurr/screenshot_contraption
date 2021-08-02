@@ -1,6 +1,9 @@
 # The screenshot contraption
 
 Just a simple working solution to take automatic screenshots.
+UPDATE : If you want to take screenshots using the OS screen capture this script is the right one but I made another one that works
+on the background using ffmpeg, it's more efficient for use with local video files, you can check it here
+
 
 ## But Why ?
 
