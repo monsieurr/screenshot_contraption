@@ -2,7 +2,7 @@
 
 Just a simple working solution to take automatic screenshots.
 UPDATE : If you want to take screenshots using the OS screen capture this script is the right one but I made another one that works
-on the background using ffmpeg, it's more efficient for use with local video files, you can check it here : (screenshot_contraption2)[https://github.com/monsieurr/screenshot_contraption2]
+on the background using ffmpeg, it's more efficient for use with local video files, you can check it here : [screenshot_contraption2](https://github.com/monsieurr/screenshot_contraption2)
 
 
 ## But Why ?
